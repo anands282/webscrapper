@@ -1,4 +1,4 @@
-# Creating a Web Scrapper
+# Creating a Web Scraper
 Web scrapers are tools or programs used to extract data from websites. They can be written in various programming languages like Python, Java, or JavaScript, and typically involve making HTTP requests to a website, parsing the HTML or other content, and then extracting the desired information.
 
 # Why Scrape Google Maps
